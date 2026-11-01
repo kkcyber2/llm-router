@@ -62,7 +62,7 @@ implies, so a hard prompt cannot be cheapened into a wrong answer.
 ## Tests
 
 ```bash
-python -m pytest -q     # 30 passed
+python -m pytest -q     # 26 passed
 ```
 
 ## Limitations — read this
